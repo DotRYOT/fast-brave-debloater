@@ -53,7 +53,7 @@ Script allows you to choose your preferred privacy-respecting search engine:
 
 ### 🔧 Installation
 ```
-git clone https://github.com/nomadxxxx/fast-brave-debloater.git
+git clone https://github.com/DotRYOT/fast-brave-debloater.git
 cd fast-brave-debloater
 chmod +x brave_debloat.sh
 sudo ./brave_debloat.sh
